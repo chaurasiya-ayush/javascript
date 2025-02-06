@@ -1,7 +1,7 @@
 const ayush ={
     marks :345,
     fullname :"aryabattacharya",
-    quality:"chutiyapa",
+    quality:"charya",
     arya(){
         console.log("Fullname :",this.fullname);
         console.log("marks :",this.marks);
